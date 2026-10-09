@@ -3,7 +3,7 @@
   "repository": "crrvx/winpodx",
   "repositoryId": "1346106316",
   "repositoryCreatedAt": "2026-08-25",
-  "updatedAt": "2026-10-08T10:31:11.177Z",
+  "updatedAt": "2026-10-09T10:29:19.318Z",
   "observedFrom": "2026-09-26",
   "backfill": {
     "generatedAt": "2026-09-26T08:33:14.300Z",
@@ -73,6 +73,11 @@
     },
     {
       "date": "2026-10-08",
+      "count": 0,
+      "source": "observed"
+    },
+    {
+      "date": "2026-10-09",
       "count": 0,
       "source": "observed"
     }
